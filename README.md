@@ -82,7 +82,7 @@ AI-powered e-commerce detail page generator built with Tauri v2 + React + TypeSc
 1. **克隆仓库**
 
 ```bash
-git clone https://github.com/yourusername/banana-mall.git
+[git clone https://github.com/yourusername/banana-mall.git](https://github.com/ziguishian/banana-mall.git)
 cd banana-mall
 ```
 

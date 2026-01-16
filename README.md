@@ -17,7 +17,7 @@ AI-powered e-commerce detail page generator built with Tauri v2 + React + TypeSc
 
 ## 项目概述
 
-**BananaMall** 是一个 AI 驱动的电商详情页生成工具，由 [MatrixInspire（灵矩绘境）](https://mxinspire.com) 开发。
+**BananaMall** 是一个 AI 驱动的电商详情页生成工具，由 [API国际中转站](https://api.kegeai.top/register?aff=DjMp) 开发。
 
 ### 核心功能
 
@@ -197,7 +197,7 @@ banana-mall/
 
 <div align="center">
 
-**Made with ❤️ by [MatrixInspire](https://mxinspire.com)**
+**Made with ❤️ by [API国际中转站](https://api.kegeai.top/register?aff=DjMp)**
 
 让灵感落地，让回忆有形
 

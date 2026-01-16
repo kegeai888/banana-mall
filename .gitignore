@@ -61,3 +61,5 @@ desktop.ini
 *.tmp
 *.temp
 .cache/
+.ipynb_checkpoints/
+cc.sh

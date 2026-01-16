@@ -106,15 +106,17 @@ function App() {
       <footer className="flex-shrink-0 border-t bg-card/60 backdrop-blur-sm">
         <div className="container mx-auto px-4 py-3 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-muted-foreground">
           <div className="font-medium">
-            灵矩绘境{" "}
-            <span className="text-[10px] uppercase tracking-wide">
-              MatrixInspire
-            </span>
+            <a
+              href="https://api.kegeai.top/register?aff=DjMp"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-primary transition-colors"
+            >
+              国际API中转站
+            </a>
           </div>
           <div className="text-center sm:text-right">
             <span>让灵感落地，让回忆有形</span>
-            <span className="mx-2">·</span>
-            <span className="font-mono">mxinspire</span>
           </div>
         </div>
       </footer>

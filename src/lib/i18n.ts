@@ -189,7 +189,7 @@ const translations: Record<Language, Translations> = {
       languageDesc: '选择生成内容的语言',
       brand: '品牌名称（可选）',
       brandDesc: '如果有自己的品牌，可以在这里填写，AI 会在文案和部分图片中适当加入品牌信息',
-      brandPlaceholder: '例如：灵矩绘境 / MatrixInspire',
+      brandPlaceholder: '例如：国际API中转站',
       extraInfo: '产品补充信息 / 规格说明',
       extraInfoDesc: '可填写材质、适用人群、使用场景、卖点补充等信息，AI 会在文案和图片风格中参考这些内容',
       extraInfoPlaceholder: '例如：食品级硅胶；适合婴幼儿使用；适合夏季户外露营；主打轻便和高颜值设计',

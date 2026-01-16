@@ -106,7 +106,7 @@ export function UploadPage() {
           <h1 className="text-3xl font-semibold">{t.upload.title}</h1>
           <p className="text-muted-foreground">{t.upload.description}</p>
           <p className="text-xs text-muted-foreground mt-1">
-            灵矩绘境 MatrixInspire · 让灵感落地，让回忆有形
+            <a href="https://api.kegeai.top/register?aff=DjMp" target="_blank" rel="noopener noreferrer" className="text-xs text-muted-foreground hover:text-primary transition-colors">国际API中转站</a> · 让灵感落地，让回忆有形
           </p>
         </div>
 

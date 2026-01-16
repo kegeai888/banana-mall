@@ -32,7 +32,47 @@ AI-powered e-commerce detail page generator built with Tauri v2 + React + TypeSc
 - 🎯 **多语言支持**：支持中文和英文
 
 ### 使用案例
+---
+![image.png](https://ucompshare-picture.s3-cn-wlcb.s3stor.compshare.cn/VUYxnnVGzYDE8APJ%2F1768551491715.png)
 
+![image.png](https://ucompshare-picture.s3-cn-wlcb.s3stor.compshare.cn/VUYxnnVGzYDE8APJ%2F1768549830764.png)
+
+![image.png](https://ucompshare-picture.s3-cn-wlcb.s3stor.compshare.cn/VUYxnnVGzYDE8APJ%2F1768549946905.png)
+
+![image.png](https://ucompshare-picture.s3-cn-wlcb.s3stor.compshare.cn/VUYxnnVGzYDE8APJ%2F1768549963663.png)
+
+![image.png](https://ucompshare-picture.s3-cn-wlcb.s3stor.compshare.cn/VUYxnnVGzYDE8APJ%2F1768550037693.png)
+
+![image.png](https://ucompshare-picture.s3-cn-wlcb.s3stor.compshare.cn/VUYxnnVGzYDE8APJ%2F1768550074303.png)
+![image.png](https://ucompshare-picture.s3-cn-wlcb.s3stor.compshare.cn/VUYxnnVGzYDE8APJ%2F1768550220004.png)
+![image.png](https://ucompshare-picture.s3-cn-wlcb.s3stor.compshare.cn/VUYxnnVGzYDE8APJ%2F1768550883181.png)
+---
+### 生成结果预览页面 【因为没有适配大小 宽屏预览更加美观】
+
+![image.png](https://ucompshare-picture.s3-cn-wlcb.s3stor.compshare.cn/VUYxnnVGzYDE8APJ%2F1768550284881.png)
+
+![image.png](https://ucompshare-picture.s3-cn-wlcb.s3stor.compshare.cn/VUYxnnVGzYDE8APJ%2F1768550335830.png)
+
+![image.png](https://ucompshare-picture.s3-cn-wlcb.s3stor.compshare.cn/VUYxnnVGzYDE8APJ%2F1768550355136.png)
+
+![image.png](https://ucompshare-picture.s3-cn-wlcb.s3stor.compshare.cn/VUYxnnVGzYDE8APJ%2F1768550374569.png)
+
+---
+### 最终到处效果图
+### 主图 【3张】
+![2026-01-16T07-59-48-686Z_1_main_main-0.png](https://ucompshare-picture.s3-cn-wlcb.s3stor.compshare.cn/VUYxnnVGzYDE8APJ%2F1768550548033.png)
+
+![2026-01-16T07-59-48-686Z_2_main_main-1.png](https://ucompshare-picture.s3-cn-wlcb.s3stor.compshare.cn/VUYxnnVGzYDE8APJ%2F1768550570916.png)
+
+![2026-01-16T07-59-48-686Z_3_main_main-2.png](https://ucompshare-picture.s3-cn-wlcb.s3stor.compshare.cn/VUYxnnVGzYDE8APJ%2F1768550578578.png)
+
+### 详情页图片
+
+![2026-01-16T07-59-48-686Z_4_detail_detail-0.png](https://ucompshare-picture.s3-cn-wlcb.s3stor.compshare.cn/VUYxnnVGzYDE8APJ%2F1768550596962.png)
+
+![2026-01-16T07-59-48-686Z_5_detail_detail-1.png](https://ucompshare-picture.s3-cn-wlcb.s3stor.compshare.cn/VUYxnnVGzYDE8APJ%2F1768550605088.png)
+
+![2026-01-16T07-59-48-686Z_6_detail_detail-2.png](https://ucompshare-picture.s3-cn-wlcb.s3stor.compshare.cn/VUYxnnVGzYDE8APJ%2F1768550612771.png)
 <img width="48%" height="1805" alt="screenshot-20260113-162832" src="https://github.com/user-attachments/assets/533e72e3-571e-4127-8096-7247d824a285" style="display: inline-block; margin-right: 10px;"/>
 <img width="48%" height="920" alt="screenshot-20260113-162754" src="https://github.com/user-attachments/assets/c38e08ee-6722-447e-b640-ed6f72cdbb12"  style="display: inline-block;" />
 <img width="2823" height="1844" alt="screenshot-20260113-163433" src="https://github.com/user-attachments/assets/bbd02fda-d975-45a9-b46e-545f29f04eed" />

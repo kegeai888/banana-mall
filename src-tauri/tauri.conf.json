@@ -4,7 +4,7 @@
   "identifier": "com.bananamall.app",
   "build": {
     "beforeDevCommand": "npm run dev",
-    "devUrl": "http://localhost:1420",
+    "devUrl": "http://localhost:7860",
     "beforeBuildCommand": "npm run build",
     "frontendDist": "../dist"
   },

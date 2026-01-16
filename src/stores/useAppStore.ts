@@ -103,7 +103,7 @@ interface AppState {
 
 const defaultSettings: AppSettings = {
   apiKey: "",
-  baseURL: "https://api.openai-proxy.org",
+  baseURL: "https://api.kegeai.top",
   defaultPlatform: "amazon",
   defaultStyle: "minimal",
   exportPath: "",

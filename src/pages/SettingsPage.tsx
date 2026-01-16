@@ -61,6 +61,15 @@ export function SettingsPage() {
             <CardTitle>API 配置</CardTitle>
             <CardDescription>
               配置 NanoBanana API 密钥和服务器地址
+              {" "}
+              <a
+                href="https://kege-aigc.feishu.cn/docx/WDXYdMKwFoQrbPxfp7Lcg9OPnBe"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="font-bold text-orange-500 hover:text-orange-600"
+              >
+                没有API KEY【密钥】？点击注册
+              </a>
             </CardDescription>
           </CardHeader>
           <CardContent className="space-y-4">
@@ -87,7 +96,7 @@ export function SettingsPage() {
                 placeholder="https://api.nanobanana.com"
               />
               <p className="text-xs text-muted-foreground">
-                支持自定义代理地址，默认: https://api.nanobanana.com
+                支持自定义代理地址，默认: https://api.kegeai.top
               </p>
             </div>
           </CardContent>
